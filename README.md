@@ -13,3 +13,5 @@ To prosta strona HTML/CSS przygotowana jako ćwiczenie z GitHub.
 =======
 # pierwsze-repo
 >>>>>>> 070abf876a55334c4886aef3e8bec478a51fdde4
+
+Link do pages https://sicksseven.github.io/
