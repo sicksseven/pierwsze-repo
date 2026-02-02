@@ -9,4 +9,7 @@ To prosta strona HTML/CSS przygotowana jako ćwiczenie z GitHub.
 ## Technologie
 - HTML5
 - CSS3
+<<<<<<< HEAD
+=======
 # pierwsze-repo
+>>>>>>> 070abf876a55334c4886aef3e8bec478a51fdde4
